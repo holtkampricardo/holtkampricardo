@@ -14,8 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Platform Engineer** with strong expertise in **DevOps**, **Cloud Infrastructure**, and **Automation**.  
-Currently working at **Vodafone Intelligent Solutions (VOIS)** where I design, automate, and maintain scalable infrastructure on **GCP** ☁️ using tools like **Terraform**, **Cloud Build**, and **Cloud Functions**.
+I'm a **Platform Engineer** with strong expertise in **DevOps**, **Cloud Infrastructure**, and **Automation**. Currently working at **Vodafone Intelligent Solutions (VOIS)** where I design, automate, and maintain scalable infrastructure on **GCP** ☁️ using tools like **Terraform**, **Cloud Build**, and **Cloud Functions**.
 
 I’m passionate about:
 - 🚀 Infrastructure automation & CI/CD
